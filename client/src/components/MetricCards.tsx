@@ -1,3 +1,4 @@
+import type { ReactNode } from "react";
 import { Users, Calendar, IndianRupee } from "lucide-react";
 import { Card } from "@/components/ui/card";
 import type { MGNEREGAData } from "@shared/schema";
@@ -29,7 +30,7 @@ function formatCurrency(num: number): string {
 }
 
 interface MetricCardProps {
-  icon: React.ReactNode;
+  icon: ReactNode;
   label: string;
   labelMarathi: string;
   value: string;

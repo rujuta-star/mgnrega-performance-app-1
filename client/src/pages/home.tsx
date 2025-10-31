@@ -1,12 +1,14 @@
 import { useState } from "react";
 import { useQuery } from "@tanstack/react-query";
 import { BarChart3 } from "lucide-react";
-import { Header } from "@/components/Header";
-import { MetricCards } from "@/components/MetricCards";
-import { MonthlyChart } from "@/components/MonthlyChart";
-import { LoadingState } from "@/components/LoadingState";
-import { ErrorState } from "@/components/ErrorState";
-import { Footer } from "@/components/Footer";
+import { 
+  Header, 
+  MetricCards, 
+  MonthlyChart, 
+  LoadingState, 
+  ErrorState, 
+  Footer 
+} from "@/components";
 import type { MGNEREGAData, District } from "@shared/schema";
 
 export default function Home() {
@@ -90,7 +92,7 @@ export default function Home() {
     <div className="min-h-screen flex flex-col bg-background">
       <Header 
         selectedDistrict={selectedDistrict}
-        onDistrictChange={(district, wasAutoDetected) => {
+        onDistrictChange={(district: string, wasAutoDetected: boolean) => {
           setSelectedDistrict(district);
           setAutoDetected(wasAutoDetected);
         }}
