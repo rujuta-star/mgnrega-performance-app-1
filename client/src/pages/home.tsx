@@ -23,7 +23,7 @@ export default function Home() {
       <div className="min-h-screen flex flex-col bg-background">
         <Header 
           selectedDistrict={selectedDistrict}
-          onDistrictChange={(district, wasAutoDetected) => {
+          onDistrictChange={(district: string, wasAutoDetected: boolean) => {
             setSelectedDistrict(district);
             setAutoDetected(wasAutoDetected);
           }}
@@ -57,7 +57,7 @@ export default function Home() {
       <div className="min-h-screen flex flex-col bg-background">
         <Header 
           selectedDistrict={selectedDistrict}
-          onDistrictChange={(district, wasAutoDetected) => {
+          onDistrictChange={(district: string, wasAutoDetected: boolean) => {
             setSelectedDistrict(district);
             setAutoDetected(wasAutoDetected);
           }}
@@ -74,7 +74,7 @@ export default function Home() {
       <div className="min-h-screen flex flex-col bg-background">
         <Header 
           selectedDistrict={selectedDistrict}
-          onDistrictChange={(district, wasAutoDetected) => {
+          onDistrictChange={(district: string, wasAutoDetected: boolean) => {
             setSelectedDistrict(district);
             setAutoDetected(wasAutoDetected);
           }}
