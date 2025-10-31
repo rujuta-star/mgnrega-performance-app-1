@@ -4,3 +4,6 @@ export { MonthlyChart } from './MonthlyChart';
 export { LoadingState } from './LoadingState';
 export { ErrorState } from './ErrorState';
 export { Footer } from './Footer';
+export { YearOverYearChart } from './YearOverYearChart';
+export { DistrictComparison } from './DistrictComparison';
+export { ExportButtons } from './ExportButtons';

@@ -16,9 +16,20 @@ export const monthlyDataSchema = z.object({
   peopleBenefited: z.number(),
   personDays: z.number(),
   wagesPaid: z.number(),
+  year: z.number().optional(),
 });
 
 export type MonthlyData = z.infer<typeof monthlyDataSchema>;
+
+export const yearlyDataSchema = z.object({
+  year: z.number(),
+  totalPeopleBenefited: z.number(),
+  totalPersonDays: z.number(),
+  totalWagesPaid: z.number(),
+  monthlyData: z.array(monthlyDataSchema),
+});
+
+export type YearlyData = z.infer<typeof yearlyDataSchema>;
 
 export const mgneregaDataSchema = z.object({
   district: z.string(),
@@ -28,6 +39,7 @@ export const mgneregaDataSchema = z.object({
   totalWagesPaid: z.number(),
   lastUpdated: z.string(),
   monthlyData: z.array(monthlyDataSchema),
+  historicalData: z.array(yearlyDataSchema).optional(),
 });
 
 export type MGNEREGAData = z.infer<typeof mgneregaDataSchema>;

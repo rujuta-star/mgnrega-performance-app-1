@@ -1,0 +1,272 @@
+{
+  "data": {
+    "district": "Nashik",
+    "districtMarathi": "नाशिक",
+    "totalPeopleBenefited": 195000,
+    "totalPersonDays": 4500000,
+    "totalWagesPaid": 9000000000,
+    "lastUpdated": "2025-10-30",
+    "monthlyData": [
+      {
+        "month": "May 2025",
+        "monthMarathi": "मे 2025",
+        "peopleBenefited": 34000,
+        "personDays": 800000,
+        "wagesPaid": 1600000000,
+        "year": 2025
+      },
+      {
+        "month": "Jun 2025",
+        "monthMarathi": "जून 2025",
+        "peopleBenefited": 32000,
+        "personDays": 750000,
+        "wagesPaid": 1500000000,
+        "year": 2025
+      },
+      {
+        "month": "Jul 2025",
+        "monthMarathi": "जुलै 2025",
+        "peopleBenefited": 33000,
+        "personDays": 770000,
+        "wagesPaid": 1540000000,
+        "year": 2025
+      },
+      {
+        "month": "Aug 2025",
+        "monthMarathi": "ऑगस्ट 2025",
+        "peopleBenefited": 32000,
+        "personDays": 720000,
+        "wagesPaid": 1440000000,
+        "year": 2025
+      },
+      {
+        "month": "Sep 2025",
+        "monthMarathi": "सप्टेंबर 2025",
+        "peopleBenefited": 32000,
+        "personDays": 740000,
+        "wagesPaid": 1480000000,
+        "year": 2025
+      },
+      {
+        "month": "Oct 2025",
+        "monthMarathi": "ऑक्टोबर 2025",
+        "peopleBenefited": 32000,
+        "personDays": 720000,
+        "wagesPaid": 1440000000,
+        "year": 2025
+      }
+    ],
+    "historicalData": [
+      {
+        "year": 2023,
+        "totalPeopleBenefited": 136500,
+        "totalPersonDays": 3150000,
+        "totalWagesPaid": 6300000000,
+        "monthlyData": [
+          {
+            "month": "Jan 2023",
+            "monthMarathi": "जाने 2023",
+            "peopleBenefited": 10476,
+            "personDays": 241744,
+            "wagesPaid": 483487412,
+            "year": 2023
+          },
+          {
+            "month": "Feb 2023",
+            "monthMarathi": "फेब्रु 2023",
+            "peopleBenefited": 10336,
+            "personDays": 238519,
+            "wagesPaid": 477037638,
+            "year": 2023
+          },
+          {
+            "month": "Mar 2023",
+            "monthMarathi": "मार्च 2023",
+            "peopleBenefited": 11854,
+            "personDays": 273553,
+            "wagesPaid": 547105199,
+            "year": 2023
+          },
+          {
+            "month": "Apr 2023",
+            "monthMarathi": "एप्रिल 2023",
+            "peopleBenefited": 10531,
+            "personDays": 243027,
+            "wagesPaid": 486053126,
+            "year": 2023
+          },
+          {
+            "month": "May 2023",
+            "monthMarathi": "मे 2023",
+            "peopleBenefited": 11010,
+            "personDays": 254088,
+            "wagesPaid": 508175054,
+            "year": 2023
+          },
+          {
+            "month": "Jun 2023",
+            "monthMarathi": "जून 2023",
+            "peopleBenefited": 11004,
+            "personDays": 253946,
+            "wagesPaid": 507892325,
+            "year": 2023
+          },
+          {
+            "month": "Jul 2023",
+            "monthMarathi": "जुलै 2023",
+            "peopleBenefited": 11634,
+            "personDays": 268487,
+            "wagesPaid": 536974222,
+            "year": 2023
+          },
+          {
+            "month": "Aug 2023",
+            "monthMarathi": "ऑगस्ट 2023",
+            "peopleBenefited": 12249,
+            "personDays": 282678,
+            "wagesPaid": 565356446,
+            "year": 2023
+          },
+          {
+            "month": "Sep 2023",
+            "monthMarathi": "सप्टेंबर 2023",
+            "peopleBenefited": 10832,
+            "personDays": 249968,
+            "wagesPaid": 499935811,
+            "year": 2023
+          },
+          {
+            "month": "Oct 2023",
+            "monthMarathi": "ऑक्टोबर 2023",
+            "peopleBenefited": 11812,
+            "personDays": 272593,
+            "wagesPaid": 545185313,
+            "year": 2023
+          },
+          {
+            "month": "Nov 2023",
+            "monthMarathi": "नोव्हेंबर 2023",
+            "peopleBenefited": 11559,
+            "personDays": 266743,
+            "wagesPaid": 533486677,
+            "year": 2023
+          },
+          {
+            "month": "Dec 2023",
+            "monthMarathi": "डिसेंबर 2023",
+            "peopleBenefited": 11351,
+            "personDays": 261946,
+            "wagesPaid": 523892114,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "totalPeopleBenefited": 165750,
+        "totalPersonDays": 3825000,
+        "totalWagesPaid": 7650000000,
+        "monthlyData": [
+          {
+            "month": "Jan 2024",
+            "monthMarathi": "जाने 2024",
+            "peopleBenefited": 14434,
+            "personDays": 333100,
+            "wagesPaid": 666199850,
+            "year": 2024
+          },
+          {
+            "month": "Feb 2024",
+            "monthMarathi": "फेब्रु 2024",
+            "peopleBenefited": 13299,
+            "personDays": 306904,
+            "wagesPaid": 613807475,
+            "year": 2024
+          },
+          {
+            "month": "Mar 2024",
+            "monthMarathi": "मार्च 2024",
+            "peopleBenefited": 14766,
+            "personDays": 340748,
+            "wagesPaid": 681495501,
+            "year": 2024
+          },
+          {
+            "month": "Apr 2024",
+            "monthMarathi": "एप्रिल 2024",
+            "peopleBenefited": 14499,
+            "personDays": 334587,
+            "wagesPaid": 669174268,
+            "year": 2024
+          },
+          {
+            "month": "May 2024",
+            "monthMarathi": "मे 2024",
+            "peopleBenefited": 12996,
+            "personDays": 299917,
+            "wagesPaid": 599833888,
+            "year": 2024
+          },
+          {
+            "month": "Jun 2024",
+            "monthMarathi": "जून 2024",
+            "peopleBenefited": 14745,
+            "personDays": 340263,
+            "wagesPaid": 680526282,
+            "year": 2024
+          },
+          {
+            "month": "Jul 2024",
+            "monthMarathi": "जुलै 2024",
+            "peopleBenefited": 13777,
+            "personDays": 317934,
+            "wagesPaid": 635867571,
+            "year": 2024
+          },
+          {
+            "month": "Aug 2024",
+            "monthMarathi": "ऑगस्ट 2024",
+            "peopleBenefited": 12986,
+            "personDays": 299670,
+            "wagesPaid": 599339675,
+            "year": 2024
+          },
+          {
+            "month": "Sep 2024",
+            "monthMarathi": "सप्टेंबर 2024",
+            "peopleBenefited": 12795,
+            "personDays": 295265,
+            "wagesPaid": 590530697,
+            "year": 2024
+          },
+          {
+            "month": "Oct 2024",
+            "monthMarathi": "ऑक्टोबर 2024",
+            "peopleBenefited": 13402,
+            "personDays": 309271,
+            "wagesPaid": 618542898,
+            "year": 2024
+          },
+          {
+            "month": "Nov 2024",
+            "monthMarathi": "नोव्हेंबर 2024",
+            "peopleBenefited": 14642,
+            "personDays": 337899,
+            "wagesPaid": 675797943,
+            "year": 2024
+          },
+          {
+            "month": "Dec 2024",
+            "monthMarathi": "डिसेंबर 2024",
+            "peopleBenefited": 13957,
+            "personDays": 322083,
+            "wagesPaid": 644166592,
+            "year": 2024
+          }
+        ]
+      }
+    ]
+  },
+  "timestamp": 1761930788298,
+  "source": "sample"
+}

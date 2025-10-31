@@ -7,7 +7,10 @@ import {
   MonthlyChart, 
   LoadingState, 
   ErrorState, 
-  Footer 
+  Footer,
+  YearOverYearChart,
+  DistrictComparison,
+  ExportButtons
 } from "@/components";
 import type { MGNEREGAData, District } from "@shared/schema";
 
@@ -103,6 +106,13 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 space-y-8 md:space-y-12">
           <MetricCards data={districtData} />
           <MonthlyChart data={districtData.monthlyData} />
+          <YearOverYearChart 
+            historicalData={districtData.historicalData} 
+            currentYear={2025} 
+            currentYearTotal={districtData.totalPeopleBenefited} 
+          />
+          <DistrictComparison currentDistrict={selectedDistrict} />
+          <ExportButtons data={districtData} />
         </div>
       </main>
 
