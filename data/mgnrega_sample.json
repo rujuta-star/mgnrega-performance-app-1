@@ -1,0 +1,152 @@
+{
+  "districts": [
+    { "id": "mumbai", "name": "Mumbai", "nameMarathi": "मुंबई", "lat": 19.0760, "lng": 72.8777 },
+    { "id": "pune", "name": "Pune", "nameMarathi": "पुणे", "lat": 18.5204, "lng": 73.8567 },
+    { "id": "nagpur", "name": "Nagpur", "nameMarathi": "नागपूर", "lat": 21.1458, "lng": 79.0882 },
+    { "id": "nashik", "name": "Nashik", "nameMarathi": "नाशिक", "lat": 19.9975, "lng": 73.7898 },
+    { "id": "aurangabad", "name": "Aurangabad", "nameMarathi": "औरंगाबाद", "lat": 19.8762, "lng": 75.3433 },
+    { "id": "solapur", "name": "Solapur", "nameMarathi": "सोलापूर", "lat": 17.6599, "lng": 75.9064 },
+    { "id": "thane", "name": "Thane", "nameMarathi": "ठाणे", "lat": 19.2183, "lng": 72.9781 },
+    { "id": "kolhapur", "name": "Kolhapur", "nameMarathi": "कोल्हापूर", "lat": 16.7050, "lng": 74.2433 },
+    { "id": "ahmednagar", "name": "Ahmednagar", "nameMarathi": "अहमदनगर", "lat": 19.0948, "lng": 74.7480 },
+    { "id": "satara", "name": "Satara", "nameMarathi": "सातारा", "lat": 17.6805, "lng": 74.0183 },
+    { "id": "sangli", "name": "Sangli", "nameMarathi": "सांगली", "lat": 16.8524, "lng": 74.5815 },
+    { "id": "dhule", "name": "Dhule", "nameMarathi": "धुळे", "lat": 20.9042, "lng": 74.7749 },
+    { "id": "jalgaon", "name": "Jalgaon", "nameMarathi": "जळगाव", "lat": 21.0077, "lng": 75.5626 },
+    { "id": "nanded", "name": "Nanded", "nameMarathi": "नांदेड", "lat": 19.1383, "lng": 77.3210 },
+    { "id": "latur", "name": "Latur", "nameMarathi": "लातूर", "lat": 18.3983, "lng": 76.5604 },
+    { "id": "amravati", "name": "Amravati", "nameMarathi": "अमरावती", "lat": 20.9374, "lng": 77.7796 },
+    { "id": "akola", "name": "Akola", "nameMarathi": "अकोला", "lat": 20.7002, "lng": 77.0082 },
+    { "id": "beed", "name": "Beed", "nameMarathi": "बीड", "lat": 18.9894, "lng": 75.7585 },
+    { "id": "parbhani", "name": "Parbhani", "nameMarathi": "परभणी", "lat": 19.2608, "lng": 76.7711 },
+    { "id": "osmanabad", "name": "Osmanabad", "nameMarathi": "उस्मानाबाद", "lat": 18.1774, "lng": 76.0407 },
+    { "id": "jalna", "name": "Jalna", "nameMarathi": "जालना", "lat": 19.8347, "lng": 75.8800 },
+    { "id": "buldhana", "name": "Buldhana", "nameMarathi": "बुलडाणा", "lat": 20.5311, "lng": 76.1844 },
+    { "id": "yavatmal", "name": "Yavatmal", "nameMarathi": "यवतमाळ", "lat": 20.3897, "lng": 78.1307 },
+    { "id": "washim", "name": "Washim", "nameMarathi": "वाशिम", "lat": 20.1097, "lng": 77.1342 },
+    { "id": "chandrapur", "name": "Chandrapur", "nameMarathi": "चंद्रपूर", "lat": 19.9615, "lng": 79.2961 },
+    { "id": "gondia", "name": "Gondia", "nameMarathi": "गोंदिया", "lat": 21.4560, "lng": 80.1951 },
+    { "id": "bhandara", "name": "Bhandara", "nameMarathi": "भंडारा", "lat": 21.1704, "lng": 79.6544 },
+    { "id": "wardha", "name": "Wardha", "nameMarathi": "वर्धा", "lat": 20.7453, "lng": 78.6022 },
+    { "id": "gadchiroli", "name": "Gadchiroli", "nameMarathi": "गडचिरोली", "lat": 20.1809, "lng": 80.0015 },
+    { "id": "raigad", "name": "Raigad", "nameMarathi": "रायगड", "lat": 18.5204, "lng": 73.1800 },
+    { "id": "ratnagiri", "name": "Ratnagiri", "nameMarathi": "रत्नागिरी", "lat": 16.9902, "lng": 73.3120 },
+    { "id": "sindhudurg", "name": "Sindhudurg", "nameMarathi": "सिंधुदुर्ग", "lat": 16.0000, "lng": 73.6667 },
+    { "id": "palghar", "name": "Palghar", "nameMarathi": "पालघर", "lat": 19.6967, "lng": 72.7653 },
+    { "id": "hingoli", "name": "Hingoli", "nameMarathi": "हिंगोली", "lat": 19.7155, "lng": 77.1454 }
+  ],
+  "data": {
+    "mumbai": {
+      "district": "Mumbai",
+      "districtMarathi": "मुंबई",
+      "totalPeopleBenefited": 125000,
+      "totalPersonDays": 2850000,
+      "totalWagesPaid": 5700000000,
+      "lastUpdated": "2025-10-30",
+      "monthlyData": [
+        { "month": "May 2025", "monthMarathi": "मे 2025", "peopleBenefited": 22000, "personDays": 520000, "wagesPaid": 1040000000 },
+        { "month": "Jun 2025", "monthMarathi": "जून 2025", "peopleBenefited": 19000, "personDays": 450000, "wagesPaid": 900000000 },
+        { "month": "Jul 2025", "monthMarathi": "जुलै 2025", "peopleBenefited": 21000, "personDays": 480000, "wagesPaid": 960000000 },
+        { "month": "Aug 2025", "monthMarathi": "ऑगस्ट 2025", "peopleBenefited": 20000, "personDays": 460000, "wagesPaid": 920000000 },
+        { "month": "Sep 2025", "monthMarathi": "सप्टेंबर 2025", "peopleBenefited": 21500, "personDays": 490000, "wagesPaid": 980000000 },
+        { "month": "Oct 2025", "monthMarathi": "ऑक्टोबर 2025", "peopleBenefited": 21500, "personDays": 450000, "wagesPaid": 900000000 }
+      ]
+    },
+    "pune": {
+      "district": "Pune",
+      "districtMarathi": "पुणे",
+      "totalPeopleBenefited": 185000,
+      "totalPersonDays": 4250000,
+      "totalWagesPaid": 8500000000,
+      "lastUpdated": "2025-10-30",
+      "monthlyData": [
+        { "month": "May 2025", "monthMarathi": "मे 2025", "peopleBenefited": 32000, "personDays": 750000, "wagesPaid": 1500000000 },
+        { "month": "Jun 2025", "monthMarathi": "जून 2025", "peopleBenefited": 30000, "personDays": 700000, "wagesPaid": 1400000000 },
+        { "month": "Jul 2025", "monthMarathi": "जुलै 2025", "peopleBenefited": 31000, "personDays": 720000, "wagesPaid": 1440000000 },
+        { "month": "Aug 2025", "monthMarathi": "ऑगस्ट 2025", "peopleBenefited": 30000, "personDays": 680000, "wagesPaid": 1360000000 },
+        { "month": "Sep 2025", "monthMarathi": "सप्टेंबर 2025", "peopleBenefited": 31000, "personDays": 710000, "wagesPaid": 1420000000 },
+        { "month": "Oct 2025", "monthMarathi": "ऑक्टोबर 2025", "peopleBenefited": 31000, "personDays": 690000, "wagesPaid": 1380000000 }
+      ]
+    },
+    "nagpur": {
+      "district": "Nagpur",
+      "districtMarathi": "नागपूर",
+      "totalPeopleBenefited": 165000,
+      "totalPersonDays": 3800000,
+      "totalWagesPaid": 7600000000,
+      "lastUpdated": "2025-10-30",
+      "monthlyData": [
+        { "month": "May 2025", "monthMarathi": "मे 2025", "peopleBenefited": 28000, "personDays": 670000, "wagesPaid": 1340000000 },
+        { "month": "Jun 2025", "monthMarathi": "जून 2025", "peopleBenefited": 27000, "personDays": 630000, "wagesPaid": 1260000000 },
+        { "month": "Jul 2025", "monthMarathi": "जुलै 2025", "peopleBenefited": 28000, "personDays": 650000, "wagesPaid": 1300000000 },
+        { "month": "Aug 2025", "monthMarathi": "ऑगस्ट 2025", "peopleBenefited": 27000, "personDays": 610000, "wagesPaid": 1220000000 },
+        { "month": "Sep 2025", "monthMarathi": "सप्टेंबर 2025", "peopleBenefited": 27500, "personDays": 630000, "wagesPaid": 1260000000 },
+        { "month": "Oct 2025", "monthMarathi": "ऑक्टोबर 2025", "peopleBenefited": 27500, "personDays": 610000, "wagesPaid": 1220000000 }
+      ]
+    },
+    "nashik": {
+      "district": "Nashik",
+      "districtMarathi": "नाशिक",
+      "totalPeopleBenefited": 195000,
+      "totalPersonDays": 4500000,
+      "totalWagesPaid": 9000000000,
+      "lastUpdated": "2025-10-30",
+      "monthlyData": [
+        { "month": "May 2025", "monthMarathi": "मे 2025", "peopleBenefited": 34000, "personDays": 800000, "wagesPaid": 1600000000 },
+        { "month": "Jun 2025", "monthMarathi": "जून 2025", "peopleBenefited": 32000, "personDays": 750000, "wagesPaid": 1500000000 },
+        { "month": "Jul 2025", "monthMarathi": "जुलै 2025", "peopleBenefited": 33000, "personDays": 770000, "wagesPaid": 1540000000 },
+        { "month": "Aug 2025", "monthMarathi": "ऑगस्ट 2025", "peopleBenefited": 32000, "personDays": 720000, "wagesPaid": 1440000000 },
+        { "month": "Sep 2025", "monthMarathi": "सप्टेंबर 2025", "peopleBenefited": 32000, "personDays": 740000, "wagesPaid": 1480000000 },
+        { "month": "Oct 2025", "monthMarathi": "ऑक्टोबर 2025", "peopleBenefited": 32000, "personDays": 720000, "wagesPaid": 1440000000 }
+      ]
+    },
+    "aurangabad": {
+      "district": "Aurangabad",
+      "districtMarathi": "औरंगाबाद",
+      "totalPeopleBenefited": 175000,
+      "totalPersonDays": 4000000,
+      "totalWagesPaid": 8000000000,
+      "lastUpdated": "2025-10-30",
+      "monthlyData": [
+        { "month": "May 2025", "monthMarathi": "मे 2025", "peopleBenefited": 30000, "personDays": 710000, "wagesPaid": 1420000000 },
+        { "month": "Jun 2025", "monthMarathi": "जून 2025", "peopleBenefited": 29000, "personDays": 660000, "wagesPaid": 1320000000 },
+        { "month": "Jul 2025", "monthMarathi": "जुलै 2025", "peopleBenefited": 30000, "personDays": 680000, "wagesPaid": 1360000000 },
+        { "month": "Aug 2025", "monthMarathi": "ऑगस्ट 2025", "peopleBenefited": 29000, "personDays": 650000, "wagesPaid": 1300000000 },
+        { "month": "Sep 2025", "monthMarathi": "सप्टेंबर 2025", "peopleBenefited": 28500, "personDays": 650000, "wagesPaid": 1300000000 },
+        { "month": "Oct 2025", "monthMarathi": "ऑक्टोबर 2025", "peopleBenefited": 28500, "personDays": 650000, "wagesPaid": 1300000000 }
+      ]
+    },
+    "solapur": {
+      "district": "Solapur",
+      "districtMarathi": "सोलापूर",
+      "totalPeopleBenefited": 210000,
+      "totalPersonDays": 4850000,
+      "totalWagesPaid": 9700000000,
+      "lastUpdated": "2025-10-30",
+      "monthlyData": [
+        { "month": "May 2025", "monthMarathi": "मे 2025", "peopleBenefited": 36000, "personDays": 860000, "wagesPaid": 1720000000 },
+        { "month": "Jun 2025", "monthMarathi": "जून 2025", "peopleBenefited": 35000, "personDays": 800000, "wagesPaid": 1600000000 },
+        { "month": "Jul 2025", "monthMarathi": "जुलै 2025", "peopleBenefited": 35000, "personDays": 820000, "wagesPaid": 1640000000 },
+        { "month": "Aug 2025", "monthMarathi": "ऑगस्ट 2025", "peopleBenefited": 35000, "personDays": 790000, "wagesPaid": 1580000000 },
+        { "month": "Sep 2025", "monthMarathi": "सप्टेंबर 2025", "peopleBenefited": 34500, "personDays": 790000, "wagesPaid": 1580000000 },
+        { "month": "Oct 2025", "monthMarathi": "ऑक्टोबर 2025", "peopleBenefited": 34500, "personDays": 790000, "wagesPaid": 1580000000 }
+      ]
+    },
+    "thane": {
+      "district": "Thane",
+      "districtMarathi": "ठाणे",
+      "totalPeopleBenefited": 145000,
+      "totalPersonDays": 3300000,
+      "totalWagesPaid": 6600000000,
+      "lastUpdated": "2025-10-30",
+      "monthlyData": [
+        { "month": "May 2025", "monthMarathi": "मे 2025", "peopleBenefited": 25000, "personDays": 590000, "wagesPaid": 1180000000 },
+        { "month": "Jun 2025", "monthMarathi": "जून 2025", "peopleBenefited": 24000, "personDays": 540000, "wagesPaid": 1080000000 },
+        { "month": "Jul 2025", "monthMarathi": "जुलै 2025", "peopleBenefited": 24500, "personDays": 560000, "wagesPaid": 1120000000 },
+        { "month": "Aug 2025", "monthMarathi": "ऑगस्ट 2025", "peopleBenefited": 24000, "personDays": 540000, "wagesPaid": 1080000000 },
+        { "month": "Sep 2025", "monthMarathi": "सप्टेंबर 2025", "peopleBenefited": 23500, "personDays": 530000, "wagesPaid": 1060000000 },
+        { "month": "Oct 2025", "monthMarathi": "ऑक्टोबर 2025", "peopleBenefited": 24000, "personDays": 540000, "wagesPaid": 1080000000 }
+      ]
+    }
+  }
+}
